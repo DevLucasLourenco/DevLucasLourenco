@@ -42,14 +42,14 @@
 
 
 ## Curriculo:
-<a href='https://www.canva.com/design/DAEutWyIo3Y/8BPMnTIWSS6k2W1qR70_kA/edit?utm_content=DAEutWyIo3Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'>Clique Aqui!</a>
+<a href='https://www.canva.com/design/DAEutWyIo3Y/8BPMnTIWSS6k2W1qR70_kA/view?utm_content=DAEutWyIo3Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'>Clique Aqui!</a>
 
 
 
 
 ## Entre em Contato Comigo:
 <details>
-  <summary>☎️ Clique Aqui!: </summary>
+  <summary>☎️ Clique Aqui: </summary>
 <div>
   <samp>
     <h2 align="center">😎 Consegue me achar em:</h2>
