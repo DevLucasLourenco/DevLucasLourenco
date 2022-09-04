@@ -2,7 +2,7 @@
 <br>LUCAS LOURENÇO
 </h1>
 
-## Muito prazer, eu sou o Lucas!
+## Muito prazer!
 
 - 🐍 Dev. Python
 - 📖5 anos de inglês
