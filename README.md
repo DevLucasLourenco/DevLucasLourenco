@@ -36,7 +36,7 @@
 - Idade: 19 anos
 - Estado Civil: Solteiro
 - Engenharia de Software - Ampli - Cursando 
-- Gestão de TI -  Universidade Veiga de Almeida (UVA) - Incompleto
+- Gestão de TI -  Universidade Veiga de Almeida (UVA) - Interrompido
 - Hobby: Ler, Praticar Jiu Jitsu
 - Email: lucas.lcl100@gmail.com
 
