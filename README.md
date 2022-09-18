@@ -42,7 +42,7 @@
 
 
 ## Curriculo:
-<a href='https://www.canva.com/design/DAEutWyIo3Y/8BPMnTIWSS6k2W1qR70_kA/view?utm_content=DAEutWyIo3Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'>Clique Aqui!</a>
+<a href='https://www.canva.com/design/DAFL1BK4fjA/vRD-qf_hIf-AozkzU4Vq4w/view?utm_content=DAFL1BK4fjA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'>Clique Aqui!</a>
 
 
 
