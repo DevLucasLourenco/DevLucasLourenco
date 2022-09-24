@@ -27,7 +27,7 @@
 ## S.O.
 
 - [x] Windows 10/11
-- [x] Linux
+- [x] Linux ()
 
 
 
