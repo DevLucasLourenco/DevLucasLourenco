@@ -5,7 +5,7 @@
 ## Muito prazer!
 
 - 🐍 Dev. Python
-- 📖5 anos de inglês
+- 📖 Inglês Avançado 
 - 🏡 Niterói/RJ
 - 🏦 SQL
 - 📘Engenharia de Software
@@ -37,7 +37,6 @@
 - Estado Civil: Solteiro
 - Engenharia de Software - Ampli - Cursando 
 - Gestão de TI -  Universidade Veiga de Almeida (UVA) - Interrompido
-- Hobby: Ler, Praticar Jiu Jitsu
 - Email: lucas.lcl100@gmail.com
 
 
