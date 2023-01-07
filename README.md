@@ -33,7 +33,7 @@
 
 ## Sobre:
 
-- Idade: 10 anos
+- Idade: 20 anos
 - Estado Civil: Solteiro
 - Engenharia de Software - Ampli - Cursando 
 - Gestão de TI -  Universidade Veiga de Almeida (UVA) - Interrompido
