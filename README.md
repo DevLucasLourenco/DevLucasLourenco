@@ -50,7 +50,7 @@
 
 ## Grandes Projetos
 
-[AllWhatsPy](https://github.com/LucasLourencoo/AllWhatsPy) <img src=>
+[AllWhatsPy](https://github.com/LucasLourencoo/AllWhatsPy)
 > Este é um dos meus grandes projetos. Voltado para a análise e automação de envio de mensagens do whatsapp, ele entrega excelentes ferramentas para a realização das mesmas.
 > 
 
