@@ -86,6 +86,8 @@
 </details>
 
 
+</br>
+<p align="center" > <img align="center" src="https://profile-counter.glitch.me/LucasLourencoo/count.svg" /></p>
 
 ```
 Tornando Desafios Em Oportunidades!
