@@ -57,7 +57,7 @@
 <a href='https://www.canva.com/design/DAFL1BK4fjA/vRD-qf_hIf-AozkzU4Vq4w/view?utm_content=DAFL1BK4fjA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'>Clique Aqui!</a>
 
 
-## Grandes Projetos
+## Projetos
 
 [AllWhatsPy](https://github.com/LucasLourencoo/AllWhatsPy)
 > Este é um dos meus grandes projetos. Voltado para a análise e automação de envio de mensagens do whatsapp, ele entrega excelentes ferramentas para a realização das mesmas.
