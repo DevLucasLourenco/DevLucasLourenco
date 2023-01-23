@@ -69,7 +69,7 @@
   <summary>☎️ 🚨Clique Aqui:🚨 </summary>
 <div>
   <samp>
-    <h2 align="center">😎 Consegue me achar em:</h2>
+    <h2 align="center">Consegue me achar em:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/lucas-l-085587167/" target="blank"><img align="center"
