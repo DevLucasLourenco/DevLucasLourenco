@@ -50,7 +50,7 @@
 - Estado Civil: Solteiro
 - Engenharia de Software - Ampli - Cursando 
 - Gestão de TI -  Universidade Veiga de Almeida (UVA) - Interrompido
-- Email: lucas.lcl100@gmail.com
+- Email: dev.lucaslourenco@gmail.com
 
 
 ## Curriculo:
@@ -78,7 +78,7 @@
       <a href="https://www.facebook.com/lucas.lourenco.1276" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="lucas" height="30"/></a>
-      <a href="https://mailto:lucas.lcl100@gmail.com" target="blank"><img align="center"
+      <a href="https://mailto:dev.lucaslourenco@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="lucas" height="30"/></a>
     </p>
