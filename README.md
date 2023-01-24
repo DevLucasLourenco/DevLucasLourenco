@@ -104,13 +104,7 @@
 </div>
 </details>
 
-
 </br>
-
-<h1 align="center">
-<br>VISITAS
-</h1>
-<p align="center" > <img align="center" src="https://profile-counter.glitch.me/DevLucasLourenco/count.svg" /></p>
 
 ```
 Tornando Desafios Em Oportunidades!
