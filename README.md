@@ -5,11 +5,23 @@
   
 
 <div align="center">
-  <div align="center">
+  
+  <div>
   <a href="https://github.com/DevLucasLourenco">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevLucasLourenco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevLucasLourenco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>    
     </div>
+    
 </br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasLourenco&theme=dark&layout=compact">
+  
+</div>
+
+
+<div>
+  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/DevLucasLourenco/DevLucasLourenco">  
+
 </div>
 
 
@@ -59,9 +71,9 @@
 
 ## Projetos
 
-[AllWhatsPy](https://github.com/DevLucasLourenco/AllWhatsPy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevLucasLourenco&repo=AllWhatsPy&theme=dark)](https://github.com/DevLucasLourenco)
 > Este é um dos meus grandes projetos. Voltado para a análise e automação de envio de mensagens do whatsapp, ele entrega excelentes ferramentas para a realização das mesmas.
-> 
+
 
 
 ## Entre em Contato Comigo:
@@ -96,7 +108,7 @@
 
 
 </br>
-<p align="center" > <img align="center" src="https://profile-counter.glitch.me/DevLucasLourenco/count.svg" /></p>
+
 
 ```
 Tornando Desafios Em Oportunidades!
