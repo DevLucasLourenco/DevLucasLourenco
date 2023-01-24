@@ -6,8 +6,8 @@
 
 <div align="center">
   <div align="center">
-  <a href="https://github.com/lucaslourencoo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaslourencoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/DevLucasLourenco">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevLucasLourenco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </div>
 </br>
 </div>
@@ -59,7 +59,7 @@
 
 ## Projetos
 
-[AllWhatsPy](https://github.com/LucasLourencoo/AllWhatsPy)
+[AllWhatsPy](https://github.com/DevLucasLourenco/AllWhatsPy)
 > Este é um dos meus grandes projetos. Voltado para a análise e automação de envio de mensagens do whatsapp, ele entrega excelentes ferramentas para a realização das mesmas.
 > 
 
@@ -96,7 +96,7 @@
 
 
 </br>
-<p align="center" > <img align="center" src="https://profile-counter.glitch.me/LucasLourencoo/count.svg" /></p>
+<p align="center" > <img align="center" src="https://profile-counter.glitch.me/DevLucasLourenco/count.svg" /></p>
 
 ```
 Tornando Desafios Em Oportunidades!
