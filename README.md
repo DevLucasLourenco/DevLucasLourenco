@@ -22,6 +22,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/DevLucasLourenco/DevLucasLourenco">  
 </div>
 
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=devlucaslourenco&theme=buddhism>
+</div>
 
 ## Muito prazer!
 
