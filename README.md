@@ -25,30 +25,25 @@
 
 ## Muito prazer!
 
-- 🐍 Dev. Python
+- 📘Engenharia de Software
 - 📖 Inglês Avançado 
 - 🏡 Niterói/RJ
 - 🏦 SQL
-- 📘Engenharia de Software
 
  ## 🔥 Tecnologias:
 
 <p align="left"> 
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/452/c-programming.png" alt="express" width="44" height="44"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60" height="60"/>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
     <a href="https://go.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="express" width="44" height="44"/> </a>    
-  
-  
-          
-  
 </p>
     <a href="https://www.anaconda.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToZuGFq2Tj9gvDP6Dm7w5TeYGrmCy0KOtwc8tvDsy606EmhjdsUZV_qx-RbQGhA-KDW3Y&usqp=CAU" alt="pytorch" width="48" height="48" /> </a> 
-     <a href="https://jupyter.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQfO8XdRaElU-oiMX4jJFWjNO56ihBj8vLWl-8tZR0xFr4LL4nfzfXWLVCFeOjsGAZF4&usqp=CAU" alt="express" width="44" height="44"/> </a> 
-     <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://d11wkw82a69pyn.cloudfront.net/wm-reply/siteassets/images/power%20bi.png" alt="express" width="43" height="40" /> </a>  
-     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="express" width="44" height="44"/> </a
+     <a href="https://jupyter.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQfO8XdRaElU-oiMX4jJFWjNO56ihBj8vLWl-8tZR0xFr4LL4nfzfXWLVCFeOjsGAZF4&usqp=CAU" alt="express" width="44" height="44"/</a> 
+      <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://d11wkw82a69pyn.cloudfront.net/wm-reply/siteassets/images/power%20bi.png" alt="express" width="43" height="40" /> </a>  
+      <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="express" width="44" height="44"/> </a
       <a href="https://pypi.org/project/selenium/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"  width="43" height="40" /> </a
+      
           
      
       
@@ -62,9 +57,8 @@
 ## Sobre:
 
 - Idade: 21 anos
-- Estado Civil: Solteiro
-- Engenharia de Software - Ampli - Cursando 
-- Gestão de TI -  Universidade Veiga de Almeida (UVA) - Interrompido
+- Engenharia de Software - Cursando 
+- Gestão de TI - Interrompido
 - Email: dev.lucaslourenco@gmail.com
 
 
@@ -72,7 +66,7 @@
 ## Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevLucasLourenco&repo=AllWhatsPy&theme=dark)](https://github.com/DevLucasLourenco/AllWhatsPy)
-> Este é um dos meus grandes projetos. Voltado para a análise e automação de envio de mensagens do whatsapp, ele entrega excelentes ferramentas para a realização das mesmas.
+> Este é um dos meus grandes projetos. Voltado para a análise e automação de envio de mensagens do whatsapp, ele entrega excelentes ferramentas para a realização de suas automações.
 
 
 
