@@ -13,7 +13,7 @@
     
 </br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasLourenco&theme=dark&layout=compact&exclude_repo=Python-SQL-AnaliseDeDadosComInteracaoBD,AnaliseGraficaRandomificada,TratamentoDePDF,Analise-RelacoesDeTabelas,AlliedWare,GSDA-310">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasLourenco&theme=dark&layout=compact&exclude_repo=Python-SQL-AnaliseDeDadosComInteracaoBD,AnaliseGraficaRandomificada,TratamentoDePDF,Analise-RelacoesDeTabelas,AlliedWare,Wave">
   
 </div>
 
