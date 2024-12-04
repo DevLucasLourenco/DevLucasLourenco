@@ -75,7 +75,7 @@
 
 ## Sobre:
 
-- Idade: 21 anos
+- Idade: 22 anos
 - Engenharia de Software - Cursando 
 - Gestão de TI - Interrompido
 - Email: dev.lucaslourenco@gmail.com
