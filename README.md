@@ -87,6 +87,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevLucasLourenco&repo=AllWhatsPy&theme=dark)](https://github.com/DevLucasLourenco/AllWhatsPy)
 > Este é um dos meus grandes projetos. Voltado para a análise e automação de envio de mensagens do whatsapp, ele entrega excelentes ferramentas para a realização de suas automações.
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevLucasLourenco&repo=AllWhatsPy&theme=dark)](https://github.com/DevLucasLourenco/WaveFlow)
+> WAVE foi um projeto que dediquei muito suor e dedicação. Responsável pela criação direta de documentos providos por uma relação de dados.
 
 
 </br>
