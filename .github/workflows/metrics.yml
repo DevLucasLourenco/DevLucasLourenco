@@ -1,67 +1,89 @@
-name: GitHub Metrics
+name: Metrics
 
 on:
-  # Atualiza automaticamente todos os dias às 06:00 UTC
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "17 6 * * *"
 
-  # Permite executar manualmente pelo GitHub
   workflow_dispatch:
 
-  # Executa novamente se você alterar este workflow
   push:
     branches:
       - main
     paths:
       - ".github/workflows/metrics.yml"
 
-permissions:
-  contents: write
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: true
 
 jobs:
-  github-metrics:
+  render:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
+    env:
+      METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+
     steps:
-      - name: Generate GitHub Metrics
-        uses: lowlighter/metrics@latest
+
+      - name: Explain missing token
+        if: ${{ env.METRICS_TOKEN == '' }}
+        run: |
+          echo "::notice title=Metrics not regenerated::Add METRICS_TOKEN repository secret to enable scheduled updates."
+
+      # ==========================================================
+      # OVERVIEW
+      # ==========================================================
+
+      - name: Generate overview
+        if: ${{ env.METRICS_TOKEN != '' }}
+
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
+
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # ======================================================
-          # USER
-          # ======================================================
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          committer_message: "chore(metrics): update ${filename} [skip ci]"
+
+          filename: metrics/overview.svg
+
+          output_condition: data-changed
+
+          template: classic
 
           user: DevLucasLourenco
 
-          # ======================================================
-          # OUTPUT
-          # ======================================================
+          base: header, activity, community, repositories, metadata
 
-          filename: github-metrics.svg
-
-          template: classic
-          config_display: columns
           config_timezone: America/Sao_Paulo
 
-          # ======================================================
-          # GENERAL PROFILE STATISTICS
-          # ======================================================
+          config_display: large
 
-          base: header, activity, community, repositories
+          config_animations: no
+
+          config_base64: yes
+
+          config_twemoji: yes
+
+          config_order: base.header, base.activity, plugin.languages, base.community, base.repositories, base.metadata
 
           # ======================================================
           # LANGUAGES
-          # Substitui github-readme-stats top-langs
           # ======================================================
 
           plugin_languages: yes
 
           plugin_languages_limit: 8
 
-          plugin_languages_threshold: 1%
+          plugin_languages_sections: most-used
 
           plugin_languages_details: percentage
+
+          plugin_languages_colors: github
 
           plugin_languages_skipped: |
             Python-SQL-AnaliseDeDadosComInteracaoBD
@@ -71,17 +93,48 @@ jobs:
             AlliedWare
             WaveFlow
 
-          # ======================================================
-          # CONTRIBUTION CALENDAR
-          # ======================================================
+          retries: 1
+
+          retries_delay: 0
+
+      # ==========================================================
+      # CONTRIBUTION CALENDAR
+      # ==========================================================
+
+      - name: Generate contribution calendar
+        if: ${{ env.METRICS_TOKEN != '' }}
+
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
+
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          committer_message: "chore(metrics): update ${filename} [skip ci]"
+
+          filename: metrics/calendar.svg
+
+          output_condition: data-changed
+
+          template: classic
+
+          user: DevLucasLourenco
+
+          base: ""
+
+          config_timezone: America/Sao_Paulo
+
+          config_display: large
+
+          config_animations: no
+
+          config_base64: yes
 
           plugin_isocalendar: yes
+
           plugin_isocalendar_duration: full-year
 
-          # ======================================================
-          # FEATURED PROJECTS
-          # ======================================================
+          retries: 1
 
-          plugin_repositories: yes
-
-          plugin_repositories_featured: DevLucasLourenco/AllWhatsPy, DevLucasLourenco/WaveFlow
+          retries_delay: 0
